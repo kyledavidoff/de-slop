@@ -2,7 +2,7 @@
 
 A Claude skill that removes AI slop from a piece of writing. It returns the text in plain human language. The meaning, facts, tone, and structure stay the same.
 
-The full skill text is in [`deslop/SKILL.md`](deslop/SKILL.md). `de-slop.skill` is the same file, zipped for install.
+The full skill text is in [`deslop/SKILL.md`](deslop/SKILL.md).
 
 ## What it does
 
@@ -33,12 +33,12 @@ It does not change your tone, reorder your sections, shorten for length, or impr
 
 ## Install
 
-**Claude apps.** Upload `de-slop.skill` in your Claude settings, in the Skills section.
+**Claude apps.** Download the `deslop` folder and zip it. Then upload the zip in your Claude settings, in the Skills section.
 
-**Claude Code.** Unzip the file into your skills folder:
+**Claude Code.** Copy the `deslop` folder into your skills folder:
 
 ```
-unzip de-slop.skill -d ~/.claude/skills/
+cp -r deslop ~/.claude/skills/
 ```
 
 ## How to use it
