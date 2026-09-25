@@ -1,4 +1,4 @@
-# Deslop
+# De-slop
 
 A Claude skill that removes AI slop from a piece of writing. It returns the text in plain human language. The meaning, facts, tone, and structure stay the same.
 
