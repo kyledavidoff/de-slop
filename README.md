@@ -2,7 +2,7 @@
 
 A Claude skill that removes AI slop from a piece of writing. It returns the text in plain human language. The meaning, facts, tone, and structure stay the same.
 
-The full skill text is in [`deslop/SKILL.md`](deslop/SKILL.md). `de-slop.skill` is the same file, zipped for install.
+The full skill text is in [`deslop/SKILL.md`](deslop/SKILL.md).
 
 ## What it does
 
